@@ -84,3 +84,8 @@ with col2:
         hover_data=['Gender', 'Primary_Device'] # Adiciona contexto ao passar o mouse
     )
     st.plotly_chart(fig_scatter, use_container_width=True)
+
+    #Grafico 5: Relação impactos na saúde vs tempo de tela
+
+    #Grafico 6: Relação de impactos vs idade
+  
